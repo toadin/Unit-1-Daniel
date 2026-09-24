@@ -71,7 +71,6 @@ from turtle import *
 
 t = Turtle()
 t.shape("turtle")
-
 def shape(x,y):
     for i in range(5):
         t.forward(x)
@@ -82,8 +81,7 @@ def addShape(iRange):
         shape(length, 144)
         length += 5
         t.right(5)
-addShape(60)
-
+addShape(60) 
 
 
 
