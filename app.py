@@ -66,7 +66,7 @@ def addSquares(iRange):
         length += 5
         t.right(5)
 addSquares(60) """
-import turtle
+""" import turtle
 from turtle import *
 
 t = Turtle()
@@ -81,7 +81,7 @@ def addShape(iRange):
         shape(length, 144)
         length += 5
         t.right(5)
-addShape(60) 
+addShape(60) """ 
 
 
 
